@@ -1,0 +1,67 @@
+{
+  "max_wait": 45,
+  "interval": 3,
+  "timeout": 40,
+  "max_retries": 5,
+  "retry_delay": 5,
+  "fingerprint": {
+    "browser": "chrome",
+    "version": "122",
+    "os": "macos",
+    "os_version": "14.2",
+    "device_type": "desktop",
+    "rotate_fingerprints": true,
+    "rotate_between_batches": true,
+    "accounts_per_batch": 3,
+    "custom_user_agents": [
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    ],
+    "screen_resolutions": [
+      "2560x1440",
+      "1680x1050",
+      "1440x900",
+      "1792x1120",
+      "2048x1280"
+    ],
+    "timezone": "UTC",
+    "language": "en-GB",
+    "platform": "MacIntel"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
