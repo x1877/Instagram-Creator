@@ -1,4 +1,4 @@
-# 🛡️ Fidra Instagram Accounts Creator
+# 🛡️ Instagram-Creator
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
@@ -210,5 +210,5 @@ Instagram sees these as unique, allowing you to register hundreds of accounts to
 
 ---
 <p align="center">
-  Built with ❤️ for Educational Purposes
+ instag : 197.1.1
 </p>
