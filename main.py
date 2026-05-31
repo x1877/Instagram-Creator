@@ -1,3 +1,4 @@
+# telegram @x1877
 import os, random, string, time, re, imaplib, email, json, mimetypes
 from email.header import decode_header
 from email.utils import getaddresses
